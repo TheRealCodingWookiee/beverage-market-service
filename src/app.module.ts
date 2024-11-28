@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
 
 @Module({
-  imports: [ExchangeMarketModule],
+  imports: [],
   controllers: [],
   providers: [],
 })
